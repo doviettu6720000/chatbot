@@ -1,0 +1,3 @@
+[console_scripts]
+vncorenlp = vncorenlp.commandline:main
+
